@@ -1,0 +1,22 @@
+{
+  "name": "admin-dashboard",
+  "version": "1.0.0",
+  "description": "Admin dashboard",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w SASS/main.scss CSS/style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ginabeki/Admin-Dashboard.git"
+  },
+  "author": "Gina",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ginabeki/Admin-Dashboard/issues"
+  },
+  "homepage": "https://github.com/ginabeki/Admin-Dashboard#readme",
+  "dependencies": {
+    "node-sass": "^7.0.1"
+  }
+}

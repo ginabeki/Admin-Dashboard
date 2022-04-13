@@ -1,5 +1,5 @@
 # Admin-Dashboard
-Recreate admin dashboard from the [Odin project](https://www.theodinproject.com/lessons/intermediate-html-and-css-admin-dashboard)
+Recreated admin dashboard from the [Odin project](https://www.theodinproject.com/lessons/intermediate-html-and-css-admin-dashboard)
 
 ## Prerequisites
 This repo contains all the important files for the project.

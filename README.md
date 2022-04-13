@@ -1,4 +1,4 @@
-# Admin-Dashboard
+# [Admin-Dashboard](https://github.com/ginabeki/Admin-Dashboard)
 Recreated admin dashboard from the [Odin project](https://www.theodinproject.com/lessons/intermediate-html-and-css-admin-dashboard)
 
 ## Prerequisites

@@ -17,5 +17,7 @@ This repo contains all the important files for the project.
 - Run `npm run sass` to use sass on the project.
 - You can now open `index.html` on your preferred browser using either live server or clicking on it and opening in the browser.
 
+
 ## Contributing
 To contribute to this project, clone this repo locally and commit your code on a separate branch.
+-
